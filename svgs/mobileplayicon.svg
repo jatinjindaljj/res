@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="29.929" height="31.269" viewBox="0 0 29.929 31.269">
+  <g id="mobileplayicon" transform="translate(-1218 -886)">
+    <g id="Ellipse_1" data-name="Ellipse 1" transform="translate(1218 886)" fill="none" stroke="#fffdfd" stroke-width="2">
+      <ellipse cx="14.964" cy="15.634" rx="14.964" ry="15.634" stroke="none"/>
+      <ellipse cx="14.964" cy="15.634" rx="13.964" ry="14.634" fill="none"/>
+    </g>
+    <g id="Path_4" data-name="Path 4" transform="matrix(0.017, 1, -1, 0.017, 1242.569, 892.37)" fill="none">
+      <path d="M8.934,0l8.934,13.848H0Z" stroke="none"/>
+      <path d="M 8.933951377868652 3.689166069030762 L 3.670430183410645 11.84762191772461 L 14.19747257232666 11.84762191772461 L 8.933951377868652 3.689166069030762 M 8.933951377868652 2.86102294921875e-06 L 17.86790084838867 13.84762191772461 L 1.9073486328125e-06 13.84762191772461 L 8.933951377868652 2.86102294921875e-06 Z" stroke="none" fill="#fff"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,135 @@
+*{
+
+    margin: 0;
+    padding:0;
+    box-sizing: border-box;
+    
+}
+
+a{
+
+    text-decoration: none;
+    color: white;
+}
+
+img{
+    width:100%;
+}
+
+.webimage{
+
+    display: none;
+
+}
+
+.sheethead{
+
+    display: flex;
+    flex-direction: column;
+
+}
+
+.righttext{
+
+    margin-top:-10px;
+    
+
+}
+
+.lefttext{
+
+    align-self:center;
+    
+
+}
+
+.sheet{
+
+display: flex;
+background: black;
+margin:10px;
+border-radius:1.5% 1.5%;
+flex-direction: column;
+
+
+}
+.imageside{
+
+
+margin:10px;
+
+}
+
+
+.textside{
+
+align-self: flex-end;
+color: white;
+
+
+}
+
+.class1{
+
+display: flex;
+font-size:8vw;
+margin-left:10px;
+
+
+
+}
+.class2{
+
+    display: flex;
+    font-size:15px;
+    margin-top:2vw;
+    margin-left:10px;
+}
+
+.class3{
+
+    display: flex;
+  justify-content:flex-end;
+  margin-top:20px;
+  margin-right:10px;
+ 
+}
+
+.class3 > .text {
+
+    font-size:10px;
+}
+
+.class3 > .text {
+
+    align-self: center;
+    margin-right: 9px;
+    font-size:15px;
+    
+}
+
+.class3 > .image {
+
+    margin-top:2.5px;
+
+}
+
+.class4{
+
+    display: flex;
+    font-size: 20px;
+    margin-left:10px;
+    margin-top:20px;
+    margin-bottom:10px;
+  
+   
+    
+}
+
+
+.class4 > .text{
+
+margin-left:5px;
+align-self: center;
+    
+}
