@@ -32,7 +32,7 @@
 " transform="translate(0 470)" fill="#040404" font-size="26" font-family="Biryani-Regular, Biryani"><tspan x="0" y="29">* there are different types of methods of user research</tspan><tspan x="0" y="75" xml:space="preserve">     &gt; Interview , Card sorting , </tspan><tspan x="0" y="121" xml:space="preserve">     &gt; Online form , Survey reports</tspan></text>
     </g>
     <g id="Group_14" data-name="Group 14" transform="translate(203.983 4351.526)">
-      <path id="Path_7" data-name="Path 7" d="M38,0H405a38,38,0,0,1,38,38v62a38,38,0,0,1-38,38H38A38,38,0,0,1,0,100V38A38,38,0,0,1,38,0Z"/>
+      <path id="Path_7" data-name="Path 7" d="M38,0H405c20.987,0,38,18.067,38,40.354v65.841c0,22.287-17.013,40.354-38,40.354H38c-20.987,0-38-18.067-38-40.354V40.354C0,18.067,17.013,0,38,0Z"/>
       <g id="Group_12" data-name="Group 12" transform="translate(212 88)">
         <circle id="Ellipse_2-2" data-name="Ellipse 2" cx="18" cy="18" r="18" transform="translate(0 2)" fill="#fff"/>
         <text id="_2" data-name="2" transform="translate(10 31)" fill="#040404" font-size="31" font-family="Sylfaen"><tspan x="0" y="0">2</tspan></text>
@@ -54,7 +54,7 @@
     <path id="Path_16" data-name="Path 16" d="M893.114,2940h56.093l-11.455-12.057,39.581,17.851-39.581,20.39,11.455-13.074H893.114Z" transform="translate(3390.504 3867.589) rotate(90)" fill="#010101"/>
     <g id="Group_21" data-name="Group 21" transform="translate(66)">
       <g id="Group_16" data-name="Group 16" transform="translate(136.477 4881.526)">
-        <path id="Path_7-2" data-name="Path 7" d="M38,0H405a38,38,0,0,1,38,38v62a38,38,0,0,1-38,38H38A38,38,0,0,1,0,100V38A38,38,0,0,1,38,0Z"/>
+        <path id="Path_7-2" data-name="Path 7" d="M38,0H405c20.987,0,38,18.311,38,40.9v66.73c0,22.588-17.013,40.9-38,40.9H38c-20.987,0-38-18.311-38-40.9V40.9C0,18.311,17.013,0,38,0Z"/>
         <g id="Group_12-2" data-name="Group 12" transform="translate(212 88)">
           <circle id="Ellipse_2-3" data-name="Ellipse 2" cx="18" cy="18" r="18" transform="translate(0 2)" fill="#fff"/>
           <text id="_3" data-name="3" transform="translate(10 31)" fill="#040404" font-size="31" font-family="Sylfaen"><tspan x="0" y="0">3</tspan></text>
@@ -97,7 +97,7 @@ RECALL VALUE ETC ...
       <text id="FEEDBACK" transform="translate(87 51.948)" fill="#fff" font-size="37" font-family="Sylfaen"><tspan x="0" y="0">FEEDBACK</tspan></text>
     </g>
     <path id="Path_19" data-name="Path 19" d="M0,15.262H68.086L54.183,0l48.044,22.6L54.183,48.409l13.9-16.55H0Z" transform="translate(440.727 5940.499) rotate(90)" fill="#010101"/>
-    <path id="Path_20" data-name="Path 20" d="M0,8.392S51.106,29.739,102.654,29.739s82.113-12.426,82.113-12.426L157.826,12.7,231.273,0,178.932,52.706,190.348,31.7s-33.293,14.324-87.43,12.337S.314,24.081.314,24.081Z" transform="translate(650.644 5867.476) rotate(-90)" fill="#010101"/>
+    <path id="Path_20" data-name="Path 20" d="M33.993-10.949s17.114,40.688,68.662,40.688,82.113-12.426,82.113-12.426L157.826,12.7,231.273,0,178.932,52.706,190.348,31.7s-33.293,14.324-87.43,12.337-81.966-46.4-81.966-46.4Z" transform="translate(650.644 5867.476) rotate(-90)" fill="#010101"/>
     <text id="GOOD" transform="translate(385.809 5924.243) rotate(-1)" fill="#040404" font-size="20" font-family="Biryani-Bold, Biryani" font-weight="700"><tspan x="0" y="0">GOOD</tspan></text>
     <g id="Group_19" data-name="Group 19" transform="translate(190.477 6060.374)">
       <path id="Path_7-5" data-name="Path 7" d="M38,0H405c20.987,0,38,10.087,38,22.529V59.288c0,12.443-17.013,22.529-38,22.529H38c-20.987,0-38-10.087-38-22.529V22.529C0,10.087,17.013,0,38,0Z"/>
