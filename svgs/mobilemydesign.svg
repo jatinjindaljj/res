@@ -88,18 +88,18 @@ RECALL VALUE ETC ...
       <text id="PROTOTYPING" transform="translate(56 59)" fill="#fff" font-size="37" font-family="Sylfaen"><tspan x="0" y="0">PROTOTYPING</tspan></text>
     </g>
     <path id="Path_18" data-name="Path 18" d="M0,14.175H67.861L54,0l47.885,20.987L54,44.959,67.861,29.589H0Z" transform="translate(438.681 5688.524) rotate(90)" fill="#010101"/>
-    <g id="Group_18" data-name="Group 18" transform="translate(172.511 5804.938)">
+    <g id="Group_18" data-name="Group 18" transform="translate(181.511 5804.938)">
       <path id="Path_7-4" data-name="Path 7" d="M38,0H405c20.987,0,38,9.848,38,22V57.883c0,12.148-17.013,22-38,22H38c-20.987,0-38-9.848-38-22V22C0,9.848,17.013,0,38,0Z"/>
       <g id="Group_12-4" data-name="Group 12" transform="translate(360 17.989)">
         <circle id="Ellipse_2-5" data-name="Ellipse 2" cx="18" cy="18" r="18" transform="translate(0 2)" fill="#fff"/>
-        <text id="_5" data-name="5" transform="translate(9 31)" fill="#040404" font-size="31" font-family="Sylfaen"><tspan x="0" y="0">5</tspan></text>
+        <text id="_5" data-name="5" transform="translate(11 31)" fill="#040404" font-size="31" font-family="Sylfaen"><tspan x="0" y="0">5</tspan></text>
       </g>
       <text id="FEEDBACK" transform="translate(87 51.948)" fill="#fff" font-size="37" font-family="Sylfaen"><tspan x="0" y="0">FEEDBACK</tspan></text>
     </g>
-    <path id="Path_19" data-name="Path 19" d="M0,15.262H68.086L54.183,0l48.044,22.6L54.183,48.409l13.9-16.55H0Z" transform="translate(440.727 5941.499) rotate(90)" fill="#010101"/>
+    <path id="Path_19" data-name="Path 19" d="M0,15.262H68.086L54.183,0l48.044,22.6L54.183,48.409l13.9-16.55H0Z" transform="translate(440.727 5940.499) rotate(90)" fill="#010101"/>
     <path id="Path_20" data-name="Path 20" d="M0,8.392S51.106,29.739,102.654,29.739s82.113-12.426,82.113-12.426L157.826,12.7,231.273,0,178.932,52.706,190.348,31.7s-33.293,14.324-87.43,12.337S.314,24.081.314,24.081Z" transform="translate(650.644 5867.476) rotate(-90)" fill="#010101"/>
     <text id="GOOD" transform="translate(385.809 5924.243) rotate(-1)" fill="#040404" font-size="20" font-family="Biryani-Bold, Biryani" font-weight="700"><tspan x="0" y="0">GOOD</tspan></text>
-    <g id="Group_19" data-name="Group 19" transform="translate(172.477 6058.374)">
+    <g id="Group_19" data-name="Group 19" transform="translate(190.477 6060.374)">
       <path id="Path_7-5" data-name="Path 7" d="M38,0H405c20.987,0,38,10.087,38,22.529V59.288c0,12.443-17.013,22.529-38,22.529H38c-20.987,0-38-10.087-38-22.529V22.529C0,10.087,17.013,0,38,0Z"/>
       <g id="Group_12-5" data-name="Group 12" transform="translate(384 20.666)">
         <circle id="Ellipse_2-6" data-name="Ellipse 2" cx="18" cy="18" r="18" transform="translate(0 2)" fill="#fff"/>
