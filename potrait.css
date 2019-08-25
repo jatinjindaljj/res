@@ -12,6 +12,14 @@ a{
     color: white;
 }
 
+.l{
+
+    width: 100vw;
+    background: black;
+    height: 3px;
+}
+
+
 img{
     width:100%;
 }

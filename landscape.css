@@ -6,6 +6,14 @@
     
 }
 
+.l{
+
+    width: 100vw;
+    background: black;
+    height: 3px;
+}
+
+
 a{
 
     text-decoration: none;
