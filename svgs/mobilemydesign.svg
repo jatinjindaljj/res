@@ -1,49 +1,20 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="892" height="2668" viewBox="0 0 892 2668">
-  <g id="mobilemydesign" transform="translate(-52 -3543)">
-    <rect id="back" width="892" height="2668" transform="translate(52 3543)" fill="#fff"/>
-    <path id="Path_8" data-name="Path 8" d="M893.114,2940h56.093l-11.455-12.057,39.581,17.851-39.581,20.39,11.455-13.074H893.114Z" transform="translate(3409.675 3336.573) rotate(90)" fill="#010101"/>
-    <g id="Group_15" data-name="Group 15" transform="translate(183 3573.526)">
-      <g id="Group_10" data-name="Group 10" transform="translate(11)">
-        <g id="Group_8" data-name="Group 8">
-          <rect id="Rectangle_4" data-name="Rectangle 4" width="453" height="138" rx="38"/>
-          <text id="USER_RESEARCH" data-name="USER RESEARCH" transform="translate(97 60)" fill="#fff" font-size="36" font-family="Sylfaen"><tspan x="0" y="0">USER RESEARCH</tspan></text>
-        </g>
-        <g id="Group_9" data-name="Group 9" transform="translate(216 82)">
-          <circle id="Ellipse_2" data-name="Ellipse 2" cx="18" cy="18" r="18" transform="translate(0 2)" fill="#fff"/>
-          <text id="_1" data-name="1" transform="translate(10 31)" fill="#040404" font-size="31" font-family="Sylfaen"><tspan x="0" y="0">1</tspan></text>
-        </g>
+<svg xmlns="http://www.w3.org/2000/svg" width="892" height="2221" viewBox="0 0 892 2221">
+  <g id="mobilemydesign" transform="translate(-22 -3990)">
+    <rect id="back" width="892" height="2221" transform="translate(22 3990)" fill="#fff"/>
+    <path id="Path_8" data-name="Path 8" d="M893.114,2940h56.093l-11.455-12.057,39.581,17.851-39.581,20.39,11.455-13.074H893.114Z" transform="translate(3367.675 3482.573) rotate(90)" fill="#010101"/>
+    <g id="Group_14" data-name="Group 14" transform="translate(195.983 4420.526)">
+      <path id="Path_7" data-name="Path 7" d="M38.257,0H407.743C428.872,0,446,10.376,446,23.175V60.986c0,12.8-17.128,23.175-38.257,23.175H38.257C17.128,84.16,0,73.785,0,60.986V23.175C0,10.376,17.128,0,38.257,0Z" transform="translate(-23.483 62.388)"/>
+      <g id="Group_12" data-name="Group 12" transform="translate(361 86)">
+        <circle id="Ellipse_2" data-name="Ellipse 2" cx="18" cy="18" r="18" transform="translate(0 2)" fill="#fff"/>
+        <text id="_2" data-name="2" transform="translate(10 31)" fill="#040404" font-size="31" font-family="Sylfaen"><tspan x="0" y="0">2</tspan></text>
       </g>
-      <g id="Group_11" data-name="Group 11" transform="translate(16.608 121.328)">
-        <path id="Path_9" data-name="Path 9" d="M528.608,3194l2,286.106h6.033V3194Z" transform="translate(-528.608 -3194.001)"/>
+      <text id="BUSINESS_RESEARCH" data-name="BUSINESS RESEARCH" transform="translate(28.017 117.474)" fill="#fff" font-size="31" font-family="Sylfaen"><tspan x="0" y="0">BUSINESS RESEARCH</tspan></text>
+      <g id="Group_13" data-name="Group 13" transform="translate(8.608 119.328)">
+        <path id="Path_9" data-name="Path 9" d="M528.608,3194l2,234.106h6.033V3194Z" transform="translate(-528.608 -3194)"/>
         <path id="Path_10" data-name="Path 10" d="M534.178,3235.776h41.076v5.658H534.178Z" transform="translate(-527.608 -3163.328)" fill="#070707"/>
         <path id="Path_11" data-name="Path 11" d="M534.178,3235.776h41.076v5.658H534.178Z" transform="translate(-527.608 -3111.328)" fill="#070707"/>
         <path id="Path_12" data-name="Path 12" d="M534.178,3235.776h41.076v5.658H534.178Z" transform="translate(-527.608 -3059.328)" fill="#070707"/>
         <path id="Path_13" data-name="Path 13" d="M534.178,3235.776h41.076v5.658H534.178Z" transform="translate(-527.608 -3007.328)" fill="#070707"/>
-        <text id="USERS_S_NEED" data-name="USERS&apos;S NEED" transform="translate(60.392 83.672)" fill="#040404" font-size="26" font-family="Biryani-Regular, Biryani"><tspan x="0" y="0">USERS&apos;S NEED</tspan></text>
-        <text id="USER_S_PAIN_POINTS" data-name="USER&apos;S PAIN POINTS" transform="translate(60.392 135.672)" fill="#040404" font-size="26" font-family="Biryani-Regular, Biryani"><tspan x="0" y="0">USER&apos;S PAIN POINTS</tspan></text>
-        <text id="USER_S_TECHNICAL_LIMITATIONS" data-name="USER&apos;S TECHNICAL  LIMITATIONS" transform="translate(60.392 187.672)" fill="#040404" font-size="26" font-family="Biryani-Regular, Biryani"><tspan x="0" y="0" xml:space="preserve">USER&apos;S TECHNICAL  LIMITATIONS</tspan></text>
-        <path id="Path_14" data-name="Path 14" d="M534.178,3235.776h41.076v5.658H534.178Z" transform="translate(-531.608 -2955.328)" fill="#070707"/>
-        <text id="TIME_WHEN_USER_MOSTLY_USES_OUR_PRODUCT" data-name="TIME WHEN USER MOSTLY USES OUR PRODUCT" transform="translate(60.392 298.672)" fill="#040404" font-size="26" font-family="Biryani-Regular, Biryani"><tspan x="0" y="0">TIME WHEN USER MOSTLY USES OUR PRODUCT</tspan></text>
-        <text id="USERS_S_FINANCIAL_LIMITATIONS" data-name="USERS&apos;S FINANCIAL LIMITATIONS" transform="translate(60.392 239.672)" fill="#040404" font-size="26" font-family="Biryani-Regular, Biryani"><tspan x="0" y="0">USERS&apos;S FINANCIAL LIMITATIONS</tspan></text>
-      </g>
-      <text id="_there_are_different_types_of_methods_of_user_research_Interview_Card_sorting_Online_form_Survey_reports_" data-name="* there are different types of methods of user research
-     &gt; Interview , Card sorting , 
-     &gt; Online form , Survey reports
-" transform="translate(0 470)" fill="#040404" font-size="26" font-family="Biryani-Regular, Biryani"><tspan x="0" y="29">* there are different types of methods of user research</tspan><tspan x="0" y="75" xml:space="preserve">     &gt; Interview , Card sorting , </tspan><tspan x="0" y="121" xml:space="preserve">     &gt; Online form , Survey reports</tspan></text>
-    </g>
-    <g id="Group_14" data-name="Group 14" transform="translate(203.983 4351.526)">
-      <path id="Path_7" data-name="Path 7" d="M38,0H405c20.987,0,38,18.067,38,40.354v65.841c0,22.287-17.013,40.354-38,40.354H38c-20.987,0-38-18.067-38-40.354V40.354C0,18.067,17.013,0,38,0Z"/>
-      <g id="Group_12" data-name="Group 12" transform="translate(212 88)">
-        <circle id="Ellipse_2-2" data-name="Ellipse 2" cx="18" cy="18" r="18" transform="translate(0 2)" fill="#fff"/>
-        <text id="_2" data-name="2" transform="translate(10 31)" fill="#040404" font-size="31" font-family="Sylfaen"><tspan x="0" y="0">2</tspan></text>
-      </g>
-      <text id="BUSINESS_RESEARCH" data-name="BUSINESS RESEARCH" transform="translate(50 63)" fill="#fff" font-size="37" font-family="Sylfaen"><tspan x="0" y="0">BUSINESS RESEARCH</tspan></text>
-      <g id="Group_13" data-name="Group 13" transform="translate(8.608 119.328)">
-        <path id="Path_9-2" data-name="Path 9" d="M528.608,3194l2,234.106h6.033V3194Z" transform="translate(-528.608 -3194)"/>
-        <path id="Path_10-2" data-name="Path 10" d="M534.178,3235.776h41.076v5.658H534.178Z" transform="translate(-527.608 -3163.328)" fill="#070707"/>
-        <path id="Path_11-2" data-name="Path 11" d="M534.178,3235.776h41.076v5.658H534.178Z" transform="translate(-527.608 -3111.328)" fill="#070707"/>
-        <path id="Path_12-2" data-name="Path 12" d="M534.178,3235.776h41.076v5.658H534.178Z" transform="translate(-527.608 -3059.328)" fill="#070707"/>
-        <path id="Path_13-2" data-name="Path 13" d="M534.178,3235.776h41.076v5.658H534.178Z" transform="translate(-527.608 -3007.328)" fill="#070707"/>
         <text id="SOURCE_OF_REVENUE_" data-name="SOURCE OF REVENUE {                                           }" transform="translate(60.392 83.672)" fill="#040404" font-size="26" font-family="Biryani-Regular, Biryani"><tspan x="0" y="0" xml:space="preserve">SOURCE OF REVENUE {                                           }</tspan></text>
         <text id="ANALYSIS_OF_COMPETING_SOLUTIONS" data-name="ANALYSIS OF COMPETING  SOLUTIONS" transform="translate(60.392 135.672)" fill="#040404" font-size="26" font-family="Biryani-Regular, Biryani"><tspan x="0" y="0" xml:space="preserve">ANALYSIS OF COMPETING  SOLUTIONS</tspan></text>
         <text id="MARKETING_STRATEGY" data-name="MARKETING STRATEGY" transform="translate(51.392 235.672)" fill="#040404" font-size="26" font-family="Biryani-Regular, Biryani"><tspan x="0" y="0">MARKETING STRATEGY</tspan></text>
@@ -51,15 +22,37 @@
         <text id="ADDS_USER_SUBSCRIPTION_" data-name="ADDS / USER SUBSCRIPTION  " transform="translate(368.409 79.146)" fill="#040404" font-size="16" font-family="Biryani-Bold, Biryani" font-weight="700"><tspan x="0" y="0" xml:space="preserve">ADDS / USER SUBSCRIPTION  </tspan></text>
       </g>
     </g>
-    <path id="Path_16" data-name="Path 16" d="M893.114,2940h56.093l-11.455-12.057,39.581,17.851-39.581,20.39,11.455-13.074H893.114Z" transform="translate(3390.504 3867.589) rotate(90)" fill="#010101"/>
+    <g id="Group_22" data-name="Group 22" transform="translate(0 33)">
+      <g id="Group_15" data-name="Group 15" transform="translate(182 3943.526)">
+        <g id="Group_11" data-name="Group 11" transform="translate(16.608 121.328)">
+          <path id="Path_9-2" data-name="Path 9" d="M528.608,3194l2,234.106h6.033V3194Z" transform="translate(-528.608 -3194.001)"/>
+          <path id="Path_10-2" data-name="Path 10" d="M534.178,3235.776h41.076v5.658H534.178Z" transform="translate(-527.608 -3163.328)" fill="#070707"/>
+          <path id="Path_11-2" data-name="Path 11" d="M534.178,3235.776h41.076v5.658H534.178Z" transform="translate(-527.608 -3111.328)" fill="#070707"/>
+          <path id="Path_12-2" data-name="Path 12" d="M534.178,3235.776h41.076v5.658H534.178Z" transform="translate(-527.608 -3059.328)" fill="#070707"/>
+          <path id="Path_13-2" data-name="Path 13" d="M534.178,3235.776h41.076v5.658H534.178Z" transform="translate(-527.608 -3007.328)" fill="#070707"/>
+          <text id="USERS_S_NEED" data-name="USERS&apos;S NEED" transform="translate(60.392 83.672)" fill="#040404" font-size="26" font-family="Biryani-Regular, Biryani"><tspan x="0" y="0">USERS&apos;S NEED</tspan></text>
+          <text id="USER_S_PAIN_POINTS" data-name="USER&apos;S PAIN POINTS" transform="translate(60.392 135.672)" fill="#040404" font-size="26" font-family="Biryani-Regular, Biryani"><tspan x="0" y="0">USER&apos;S PAIN POINTS</tspan></text>
+          <text id="USER_S_TECHNICAL_LIMITATIONS" data-name="USER&apos;S TECHNICAL  LIMITATIONS" transform="translate(60.392 187.672)" fill="#040404" font-size="26" font-family="Biryani-Regular, Biryani"><tspan x="0" y="0" xml:space="preserve">USER&apos;S TECHNICAL  LIMITATIONS</tspan></text>
+          <path id="Path_14" data-name="Path 14" d="M575.255,3241.434h0Z" transform="translate(-531.608 -2955.328)" fill="#070707"/>
+          <text id="USERS_S_FINANCIAL_LIMITATIONS" data-name="USERS&apos;S FINANCIAL LIMITATIONS" transform="translate(60.392 239.672)" fill="#040404" font-size="26" font-family="Biryani-Regular, Biryani"><tspan x="0" y="0">USERS&apos;S FINANCIAL LIMITATIONS</tspan></text>
+        </g>
+      </g>
+      <path id="Path_22" data-name="Path 22" d="M38.257,0H407.743C428.872,0,446,10.376,446,23.175V60.986c0,12.8-17.128,23.175-38.257,23.175H38.257C17.128,84.16,0,73.785,0,60.986V23.175C0,10.376,17.128,0,38.257,0Z" transform="translate(172.5 4022.914)"/>
+      <text id="USER_RESEARCH" data-name="USER RESEARCH" transform="translate(213.77 4079.298)" fill="#fff" font-size="36" font-family="Sylfaen"><tspan x="0" y="0">USER RESEARCH</tspan></text>
+      <g id="Group_9" data-name="Group 9" transform="translate(548.584 4046.526)">
+        <circle id="Ellipse_2-2" data-name="Ellipse 2" cx="18" cy="18" r="18" transform="translate(0 2)" fill="#fff"/>
+        <text id="_1" data-name="1" transform="translate(10 31)" fill="#040404" font-size="31" font-family="Sylfaen"><tspan x="0" y="0">1</tspan></text>
+      </g>
+    </g>
+    <path id="Path_16" data-name="Path 16" d="M893.114,2940h56.093l-11.455-12.057,39.581,17.851-39.581,20.39,11.455-13.074H893.114Z" transform="translate(3367.504 3928.589) rotate(90)" fill="#010101"/>
     <g id="Group_21" data-name="Group 21" transform="translate(66)">
       <g id="Group_16" data-name="Group 16" transform="translate(136.477 4881.526)">
-        <path id="Path_7-2" data-name="Path 7" d="M38,0H405c20.987,0,38,18.311,38,40.9v66.73c0,22.588-17.013,40.9-38,40.9H38c-20.987,0-38-18.311-38-40.9V40.9C0,18.311,17.013,0,38,0Z"/>
-        <g id="Group_12-2" data-name="Group 12" transform="translate(212 88)">
+        <path id="Path_7-2" data-name="Path 7" d="M38.059,0H405.631c21.02,0,38.059,10.893,38.059,24.33v39.7c0,13.437-17.04,24.33-38.059,24.33H38.059C17.04,88.357,0,77.464,0,64.027V24.33C0,10.893,17.04,0,38.059,0Z" transform="translate(-20.69 45.279)"/>
+        <g id="Group_12-2" data-name="Group 12" transform="translate(341 69)">
           <circle id="Ellipse_2-3" data-name="Ellipse 2" cx="18" cy="18" r="18" transform="translate(0 2)" fill="#fff"/>
           <text id="_3" data-name="3" transform="translate(10 31)" fill="#040404" font-size="31" font-family="Sylfaen"><tspan x="0" y="0">3</tspan></text>
         </g>
-        <text id="DESIGNING" transform="translate(131 58)" fill="#fff" font-size="37" font-family="Sylfaen"><tspan x="0" y="0">DESIGNING</tspan></text>
+        <text id="DESIGNING" transform="translate(50.523 103.474)" fill="#fff" font-size="41" font-family="Sylfaen"><tspan x="0" y="0">DESIGNING</tspan></text>
         <g id="Group_13-2" data-name="Group 13" transform="translate(15.608 121.328)">
           <path id="Path_9-3" data-name="Path 9" d="M528.608,3194l2,383.106h6.033V3194Z" transform="translate(-528.608 -3194)"/>
           <path id="Path_10-3" data-name="Path 10" d="M534.178,3235.776h41.076v5.658H534.178Z" transform="translate(-527.608 -3163.328)" fill="#070707"/>
@@ -67,8 +60,7 @@
           <path id="Path_13-3" data-name="Path 13" d="M534.178,3235.776h41.076v5.658H534.178Z" transform="translate(-526.608 -2858.328)" fill="#070707"/>
           <text id="DESIGN_ALL_COMPONENTS_SEPARATELY_MODULAR_DESIGN_" data-name="DESIGN ALL COMPONENTS
 SEPARATELY ( MODULAR DESIGN )" transform="translate(53.392 251.672)" fill="#040404" font-size="21" font-family="Biryani-SemiBold, Biryani" font-weight="600"><tspan x="0" y="0">DESIGN ALL COMPONENTS</tspan><tspan x="0" y="37">SEPARATELY ( MODULAR DESIGN )</tspan></text>
-          <text id="WRITING_DOWN_OF_DESIGN_STRATEGY_" data-name="WRITING DOWN OF DESIGN 
-STRATEGY " transform="translate(59.392 389.672)" fill="#040404" font-size="21" font-family="Biryani-SemiBold, Biryani" font-weight="600"><tspan x="0" y="0">WRITING DOWN OF DESIGN </tspan><tspan x="0" y="37">STRATEGY </tspan></text>
+          <text id="WRITING_DOWN_OF_DESIGN_STRATEGY_" data-name="WRITING DOWN OF DESIGN STRATEGY " transform="translate(59.392 389.672)" fill="#040404" font-size="21" font-family="Biryani-SemiBold, Biryani" font-weight="600"><tspan x="0" y="0">WRITING DOWN OF DESIGN STRATEGY </tspan></text>
           <path id="Path_21" data-name="Path 21" d="M534.178,3235.776h41.076v5.658H534.178Z" transform="translate(-526.608 -2905.328)" fill="#070707"/>
           <text id="OPTICALL_ILLUSION" data-name="OPTICALL ILLUSION" transform="translate(53.392 340.672)" fill="#040404" font-size="21" font-family="Biryani-SemiBold, Biryani" font-weight="600"><tspan x="0" y="0">OPTICALL ILLUSION</tspan></text>
         </g>
@@ -78,8 +70,8 @@ MICROANIMATIONS , SOUNDS ,
 RECALL VALUE ETC ... 
 ( ACCORDING TO BRAND IDENTITY )" transform="translate(212.477 5085.785)" fill="#040404" font-size="21" font-family="Biryani-SemiBold, Biryani" font-weight="600"><tspan x="0" y="0">SELECTING </tspan><tspan y="0" font-family="Biryani-Light, Biryani" font-weight="300">COLORS </tspan><tspan y="0">, SHAPES , </tspan><tspan font-family="Biryani-Light, Biryani" font-weight="300"><tspan x="0" y="37">MICROANIMATIONS </tspan><tspan y="37" font-family="Biryani-SemiBold, Biryani" font-weight="600">, SOUNDS ,</tspan><tspan y="37"></tspan><tspan x="0" y="74">RECALL VALUE </tspan><tspan y="74" font-family="Biryani-SemiBold, Biryani" font-weight="600">ETC ... </tspan></tspan><tspan x="0" y="111">( ACCORDING TO BRAND IDENTITY )</tspan></text>
     </g>
-    <path id="Path_17" data-name="Path 17" d="M0,14.539H66.891L53.231,0l47.2,21.527-47.2,24.588L66.891,30.349H0Z" transform="translate(443.796 5461.031) rotate(90)" fill="#010101"/>
-    <g id="Group_17" data-name="Group 17" transform="translate(172.477 5577.938)">
+    <path id="Path_17" data-name="Path 17" d="M0,14.539H66.891L53.231,0l47.2,21.527-47.2,24.588L66.891,30.349H0Z" transform="translate(438.796 5445.031) rotate(90)" fill="#010101"/>
+    <g id="Group_17" data-name="Group 17" transform="translate(172.477 5569.938)">
       <path id="Path_7-3" data-name="Path 7" d="M38,0H405c20.987,0,38,11.072,38,24.731V65.082c0,13.659-17.013,24.731-38,24.731H38c-20.987,0-38-11.072-38-24.731V24.731C0,11.072,17.013,0,38,0Z"/>
       <g id="Group_12-3" data-name="Group 12" transform="translate(367 26)">
         <circle id="Ellipse_2-4" data-name="Ellipse 2" cx="18" cy="18" r="18" transform="translate(0 2)" fill="#fff"/>
@@ -98,7 +90,7 @@ RECALL VALUE ETC ...
     </g>
     <path id="Path_19" data-name="Path 19" d="M0,15.262H68.086L54.183,0l48.044,22.6L54.183,48.409l13.9-16.55H0Z" transform="translate(440.727 5940.499) rotate(90)" fill="#010101"/>
     <path id="Path_20" data-name="Path 20" d="M33.993-10.949s17.114,40.688,68.662,40.688,82.113-12.426,82.113-12.426L157.826,12.7,231.273,0,178.932,52.706,190.348,31.7s-33.293,14.324-87.43,12.337-81.966-46.4-81.966-46.4Z" transform="translate(650.644 5867.476) rotate(-90)" fill="#010101"/>
-    <text id="GOOD" transform="translate(385.809 5924.243) rotate(-1)" fill="#040404" font-size="20" font-family="Biryani-Bold, Biryani" font-weight="700"><tspan x="0" y="0">GOOD</tspan></text>
+    <text id="GOOD" transform="translate(385.809 5928.243) rotate(-1)" fill="#040404" font-size="20" font-family="Biryani-Bold, Biryani" font-weight="700"><tspan x="0" y="0">GOOD</tspan></text>
     <g id="Group_19" data-name="Group 19" transform="translate(190.477 6060.374)">
       <path id="Path_7-5" data-name="Path 7" d="M38,0H405c20.987,0,38,10.087,38,22.529V59.288c0,12.443-17.013,22.529-38,22.529H38c-20.987,0-38-10.087-38-22.529V22.529C0,10.087,17.013,0,38,0Z"/>
       <g id="Group_12-5" data-name="Group 12" transform="translate(384 20.666)">
